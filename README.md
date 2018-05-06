@@ -4,5 +4,7 @@
 
 각 챕터별 완성된 프로젝트로 책 내용을 진행시 막히거나 빠른 진행을 위해 제공합니다.
 
+Q&A는 [www.Unity3dStudy.com](http://www.unity3dstudy.com/books-qanda/) 에 글을 남겨주세요.
+
 ![UnityBook2018 Cover](http://IndieGameMaker.github.io/images/books/unity2018_cover.png)
 
