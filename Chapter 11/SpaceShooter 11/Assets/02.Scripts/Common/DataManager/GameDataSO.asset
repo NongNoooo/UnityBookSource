@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e625e3594485b498582fc0885eff6c21, type: 3}
   m_Name: GameDataSO
   m_EditorClassIdentifier: 
-  killCount: 3
+  killCount: 6
   hp: 130
   damage: 25
   speed: 6.6
